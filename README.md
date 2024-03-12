@@ -18,22 +18,23 @@ My slogan: Make Fun Games!
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  [![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)](https://lua.org)
+  [![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=007396)](https://go.dev)
+  [![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)](https://cplusplus.com)
+  [![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=00599C)](https://learn.microsoft.com/en-us/dotnet/csharp)
 - 🎮 &nbsp;
-  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
-  ![Unreal](https://img.shields.io/badge/-Unreal-333333?style=flat&logo=unreal-engine)
-  ![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=godot-engine)
-  ![LÖVE](https://img.shields.io/badge/-LÖVE-333333?style=flat&logo=love2d)
+  [![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)](https://unity.com)
+  [![Unreal](https://img.shields.io/badge/-Unreal-333333?style=flat&logo=unreal-engine)](https://www.unrealengine.com)
+  [![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=godot-engine)](https://godotengine.org)
+  [![LÖVE](https://img.shields.io/badge/-LÖVE-333333?style=flat&logo=love2d)](https://love2d.org)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://www.mysql.com)
+  [![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)](https://redis.io)
+  [![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)](https://www.mongodb.com)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
